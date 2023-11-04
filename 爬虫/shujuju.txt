@@ -1,0 +1,273 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+<head>
+<title>关于做好2023级本科新生学信网学籍信息自查工作的通知-山东大学本科生院</title><META Name="keywords" Content="山东大学本科生院,教务管理,关于,做好,2023,20,23,本科,新生,学籍,信息,自查,工作,通知" />
+<META Name="description" Content="各培养单位及2023级本科新生：按照山东省教育厅相关要求，为确保我校新生学籍信息准确完整，现启动2023级本科新生学信网学籍信息自查工作，有关要求通知如下。一、自查对象2023年录取的普通本科生（含港澳台侨学生）。二、自查流程1.新生本人登录“中国高等教育学生信息网”（简称“学信网”，网址：http://www.chsi.com.cn/）。2.点击导航栏中第二个项目“学籍查询”进入相应页面。如果高考报名时曾在阳光高考平台注册过，请使..." />
+
+
+</meta>
+<meta name="description" content="山东大学本科生院"></meta>
+
+<link rel="stylesheet" type="text/css" href="dfiles/17838/css/style1/default.css"></link>
+<link rel="stylesheet" type="text/css" href="dfiles/17838/css/slide/slide.css"></link>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307b784657505b5742000000074457 -->
+<link rel="stylesheet" type="text/css" href="content.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1014,'/content.jsp',36793,1348324972)</script>
+</head>
+<body class="bodybg" >
+
+<div>
+
+<div id="top">
+
+<div id="header">
+
+<div class="logo">
+
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="index.htm" ><img src="img/banner2.png"></a>
+</div>
+
+
+<div class="search">
+
+<div class="formStyle">
+
+
+
+
+
+
+<form action='search.jsp?wbtreeid=1014' method='post' name='a270001a'  style="display: inline;" onsubmit="return subsearchdataa270001a()">
+  <input type='hidden' name='Find' value='find'><input type='hidden' name='entrymode' value='1'><input type='hidden' id='INTEXT2'  name='INTEXT2' value=''><input type='hidden' name='news_search_code'>
+
+
+
+<input type="text"  name='INTEXT'  class="txStyle" onfocus="this.value='';" value="搜索网页、新闻等" >
+ <input type="submit"  align="absmiddle" name="FindButton" style="cursor: hand" class="subStyle" value="&nbsp;&nbsp;"  >
+
+
+
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}  
+function subsearchdataa270001a()
+{ 
+    if(document.a270001a.INTEXT.value.trim()=="")
+    {
+        alert("请输入查询关键字！");
+        return false;
+    }
+    if(checkDataa270001a(document.a270001a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+    <script language='JavaScript' src='_dwr/engine.js'></script>
+    <script language='JavaScript' src='_dwr/util.js'></script>
+    <script language='JavaScript' src='_dwr/interface/NewsSearchDWR.js'></script>
+    <script language='JavaScript' src='/system/resource/js/vsb_news_search.js'></script>
+    <script language='JavaScript' src='/system/resource/js/vsb_news_search_entry.js'></script>  
+    <script language='JavaScript' src='/system/resource/js/language.js'></script>
+    <script language='JavaScript' src='/system/resource/js/base64.js'></script>
+    <script language='JavaScript' src='/system/resource/js/formfunc.js'></script>    
+    
+    <script>    
+    news_searcha270001a = new vsb_news_search();
+    news_searcha270001a.isShowCode=false;
+    news_searcha270001a.tooltipid = 'tooltipa270001a';
+    news_searcha270001a.apptag = 'intextspana270001a';
+    news_searcha270001a.frametag = 'intextframea270001a';
+    news_search_entrya270001a = new vsb_news_search_entry();
+    news_search_entrya270001a.formname = "a270001a";
+    news_search_entrya270001a.news_search_obj = news_searcha270001a; 
+    news_search_entrya270001a.querytxtsize = 155
+    news_search_entrya270001a.yzmts ="您的查询过于频繁，请输入验证码后继续查询";
+    news_search_entrya270001a.qdstyle ="";
+    news_search_entrya270001a.qdname = "确定";
+    news_search_entrya270001a.qxstyle = "";
+    news_search_entrya270001a.qxname = "取消";
+    news_search_entrya270001a.showstr='请输入查询验证码！';    
+    function checkDataa270001a(formname)
+    {    
+        return news_search_entrya270001a.checkdata(formname)   
+    }
+    </script>
+<script language="javascript" src="/system/resource/js/base64.js"></script> 
+</div>
+</div>
+</div>
+</div>
+
+<div class="menubar">
+
+<div class="mmiddle">
+<div class="menuitemno">
+<a href="http://www.sdu.edu.cn/">山大首页</a>
+</div>
+<div class="menuitemno">
+<a href="index.htm">网站首页</a>
+</div>
+<div class="menuitemno">
+<a href="jgsz/zzjg.htm">机构设置</a>
+</div>
+<div class="menuitemno">
+<a href="jxwj/gjfg.htm">教学文件</a>
+</div>
+<div class="menuitemno">
+<a href="tspy.htm">特色培养</a>
+</div>
+<div class="menuitemno">
+<a href="zysz/zysz.htm">专业设置</a>
+</div>
+<div class="menuitemno">
+<a href="xxgk/bkjyjbqk.htm">信息公开</a>
+</div>
+<div class="menuitemno">
+<a href="ztwz.htm">专题网站</a>
+</div>
+<div class="menuitemno">
+<a href="yjx.htm">意见箱</a>
+</div>
+
+</div>
+</div>
+</div>
+
+	<div class="clear h10"></div>
+
+	<div id="wrap">
+
+		<div style="clear: both"></div>
+
+		<div id="container" style="border:1px solid #dadada">
+			<div class="positionbar">
+    您现在的位置: 
+                        <a href="index.htm">网站首页</a>
+                ->
+                <a href="sanji_list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1010">工作通知</a>
+                ->
+                <a href="sanji_list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1014">教务管理</a>
+                ->
+                正文
+</div>
+			<div style="clear: both"></div>
+			<div style="width: 100%;margin-top: 20px">
+				<div id="sub-content" style="width: 90%;margin: 0 auto">
+					<div style="text-align: center">
+	                    
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname"><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<div>
+    <div id="newsTitle" style="margin-bottom: 25px; border-bottom: 1px solid #DADADA;">
+    <div style="width: 565px; margin: 0px auto; font-size: 20px; font-family: 黑体; color: #000000; line-height: 35px;">关于做好2023级本科新生学信网学籍信息自查工作的通知</div>
+    <div style="font-size: 12px; line-height: 30px;">
+      发布人：教务管理&nbsp;&nbsp;&nbsp;&nbsp; 发布时间：2023-11-01 17:14:21
+      &nbsp;&nbsp;&nbsp;&nbsp; 点击次数：<script>_showDynClicks("wbnews", 1348324972, 36793)</script>
+    </div>
+    </div>
+    <div class="newscontent_1" style="text-align: left; width: 100%; line-height: 25px; overflow: hidden;" id='vsb_content' >
+    <div class="newscontent_1">
+    <div class='v_news_content'>
+<style><!--         p.MsoNormal, li.MsoNormal, div.MsoNormal{ mso-style-parent:""; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-justify:inter-ideograph; margin-left:0.0pt; text-indent:0.0pt; line-height:normal; font-size:10.5pt; font-family:Calibri; font-weight:normal;}                  h2{ mso-style-next:"正文"; text-align:left; margin-left:0.0pt; text-indent:0.0pt; line-height:normal; font-size:18.0pt; font-family:宋体;}                  p{ text-align:left; margin-left:0.0pt; text-indent:0.0pt; line-height:normal; font-size:12.0pt; font-family:Calibri; font-weight:normal;}                  strong{ font-weight:bold;}                  a:link, span.MsoHyperlink{ color:#0000FF; text-decoration:underline; text-underline:single;}                  p.style1, li.style1, div.style1{ mso-style-name:"_Style 7"; mso-style-next:"正文"; margin-top:0.0pt; margin-bottom:0.0pt; text-align:center; margin-left:0.0pt; text-indent:0.0pt; line-height:normal; border-bottom:solid #000 1.0pt; padding:0.0pt 0.0pt 1.0pt 0.0pt; font-size:8.0pt; font-family:Arial; display:none; font-weight:normal;}                  p.style2, li.style2, div.style2{ mso-style-name:"_Style 8"; mso-style-next:"正文"; margin-top:0.0pt; margin-bottom:0.0pt; text-align:center; margin-left:0.0pt; text-indent:0.0pt; line-height:normal; border-top:solid #000 1.0pt; padding:1.0pt 0.0pt 0.0pt 0.0pt; font-size:8.0pt; font-family:Arial; display:none; font-weight:normal;}                  @list l0{ mso-list-id:268435337; mso-list-type:hybrid; mso-list-template-ids:0;}                  @list l0:level1{ mso-level-number-format:bullet; mso-level-style-link:"列表项目符号"; mso-level-text:"●"; mso-level-tab-stop:18.0pt; mso-level-number-position:left; margin-left:18.0pt; text-indent:-18.0pt; font-family:Dialog;}                  @list l1{ mso-list-id:268435336; mso-list-type:hybrid; mso-list-template-ids:0;}                  @list l1:level1{ mso-level-style-link:"列表编号"; mso-level-text:"%1."; mso-level-tab-stop:18.0pt; mso-level-number-position:left; margin-left:18.0pt; text-indent:-18.0pt;}                  @list l2{ mso-list-id:268435331; mso-list-type:hybrid; mso-list-template-ids:0;}                  @list l2:level1{ mso-level-number-format:bullet; mso-level-style-link:"列表项目符号 2"; mso-level-text:"●"; mso-level-tab-stop:39.0pt; mso-level-number-position:left; margin-left:39.0pt; text-indent:-18.0pt; font-family:Dialog;}                  @list l3{ mso-list-id:268435330; mso-list-type:hybrid; mso-list-template-ids:0;}                  @list l3:level1{ mso-level-number-format:bullet; mso-level-style-link:"列表项目符号 3"; mso-level-text:"●"; mso-level-tab-stop:60.0pt; mso-level-number-position:left; margin-left:60.0pt; text-indent:-18.0pt; font-family:Dialog;}                  @list l4{ mso-list-id:268435329; mso-list-type:hybrid; mso-list-template-ids:0;}                  @list l4:level1{ mso-level-number-format:bullet; mso-level-style-link:"列表项目符号 4"; mso-level-text:"●"; mso-level-tab-stop:81.0pt; mso-level-number-position:left; margin-left:81.0pt; text-indent:-18.0pt; font-family:Dialog;}                  @list l5{ mso-list-id:268435328; mso-list-type:hybrid; mso-list-template-ids:0;}                  @list l5:level1{ mso-level-number-format:bullet; mso-level-style-link:"列表项目符号 5"; mso-level-text:"●"; mso-level-tab-stop:102.0pt; mso-level-number-position:left; margin-left:102.0pt; text-indent:-18.0pt; font-family:Dialog;}                  @list l6{ mso-list-id:268435327; mso-list-type:hybrid; mso-list-template-ids:0;}                  @list l6:level1{ mso-level-style-link:"列表编号 2"; mso-level-text:"%1."; mso-level-tab-stop:39.0pt; mso-level-number-position:left; margin-left:39.0pt; text-indent:-18.0pt;}                  @list l7{ mso-list-id:268435326; mso-list-type:hybrid; mso-list-template-ids:0;}                  @list l7:level1{ mso-level-style-link:"列表编号 3"; mso-level-text:"%1."; mso-level-tab-stop:60.0pt; mso-level-number-position:left; margin-left:60.0pt; text-indent:-18.0pt;}                  @list l8{ mso-list-id:268435325; mso-list-type:hybrid; mso-list-template-ids:0;}                  @list l8:level1{ mso-level-style-link:"列表编号 4"; mso-level-text:"%1."; mso-level-tab-stop:81.0pt; mso-level-number-position:left; margin-left:81.0pt; text-indent:-18.0pt;}                  @list l9{ mso-list-id:268435324; mso-list-type:hybrid; mso-list-template-ids:0;}                  @list l9:level1{ mso-level-style-link:"列表编号 5"; mso-level-text:"%1."; mso-level-tab-stop:102.0pt; mso-level-number-position:left; margin-left:102.0pt; text-indent:-18.0pt;}                  @page{}                  @page Section1{ size:595.3pt 841.9pt; margin:72.0pt 89.0pt 72.0pt 90.0pt; padding:24.0pt 24.0pt 24.0pt 24.0pt; vsb_temp:15.6pt;}                  div.Section1{ page:Section1;}                  @font-face{ font-family:Dialog; panose-1:0 0 0 0 0 0 0 0 0 0; mso-font-charset:0; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:0 0 0 0 0 0;}                  @font-face{ font-family:仿宋; panose-1:2 1 6 9 6 1 1 1 1 1; mso-font-alt:Dialog; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-2147482945 953122042 22 0 262145 0;}                  @font-face{ font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-alt:Lucida Sans; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 536871423 0;}                  @font-face{ font-family:宋体; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:Dialog; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:515 680460288 6 0 262145 0;}                  @font-face{ font-family:Arial; panose-1:2 11 6 4 2 2 2 2 2 4; mso-font-alt:Lucida Sans; mso-font-charset:1; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-536858881 -1073711013 9 0 1073742335 -65536;}                --></style>
+<div class="Section1">
+ <p style="text-align: left; line-height: 31.5pt; margin-top: 0pt; margin-right: 0%; margin-bottom: 0pt; page-break-after: auto;"><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">各</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">培养单位</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">及</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">202</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">3</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">级本科新生：</span></p>
+ <p style="text-align: left; line-height: 31.5pt; text-indent: 28.5pt; margin-top: 0pt; margin-right: 0%; margin-bottom: 0pt; page-break-after: auto;"><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">按照山东省教育厅相关要求，为确保我校新生学籍信息准确完整，现启动</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">2023级本科新生</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">学信网学籍信息自查工作，有关要求通知如下。</span></p>
+ <p style="text-align: left; line-height: 31.5pt; text-indent: 27.75pt; margin-top: 0pt; margin-right: 0%; margin-bottom: 0pt; page-break-after: auto;"><strong style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">一、自查对象</strong></p>
+ <p style="text-align: left; line-height: 31.5pt; text-indent: 27.75pt; margin-top: 0pt; margin-right: 0%; margin-bottom: 0pt; page-break-after: auto;"><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">202</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">3</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">年录取的普通本科生（含港澳台侨学生）</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">。</span></p>
+ <p style="text-align: left; line-height: 31.5pt; text-indent: 27.75pt; margin-top: 0pt; margin-right: 0%; margin-bottom: 0pt; page-break-after: auto;"><strong style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">二、自查流程</strong></p>
+ <p style="text-align: left; line-height: 31.5pt; text-indent: 27.75pt; margin-top: 0pt; margin-right: 0%; margin-bottom: 0pt; page-break-after: auto;"><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">1.</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">新生本人登录“中国高等教育学生信息网”（简称“学信网”，网址：</span><a href="http://www.chsi.com.cn/%EF%BC%89"><span style="color: rgb(0, 0, 255); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal; text-decoration: underline; text-underline: single;">http://www.chsi.com.cn/</span></a><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">）。</span></p>
+ <p style="text-align: left; line-height: 31.5pt; text-indent: 27.75pt; margin-top: 0pt; margin-right: 0%; margin-bottom: 0pt; page-break-after: auto;"><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">2.</span><span style="background: rgb(255, 255, 255); color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">点击导航栏中第二个项目“学籍查询”进入相应页面。</span></p>
+ <p style="text-align: left; line-height: 31.5pt; text-indent: 27.75pt; margin-top: 0pt; margin-right: 0%; margin-bottom: 0pt; page-break-after: auto;"><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">如果高考报名时曾在阳光高考平台注册过，请使用当时的用户名和密码，点击“登录学信档案”登录；</span></p>
+ <p style="text-align: left; line-height: 31.5pt; text-indent: 27.75pt; margin-top: 0pt; margin-right: 0%; margin-bottom: 0pt; page-break-after: auto;"><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">如果尚未注册，请点击右侧的“注册学信网账号”按钮，按照要求进行实名注册（注意：务必所有信息准确，并填写高考报名时登记的身份证号码，否则可能导致学籍信息无法关联），注册成功后，登录学信档案页面。</span></p>
+ <p style="text-align: left; line-height: 31.5pt; text-indent: 27.75pt; margin-top: 0pt; margin-right: 0%; margin-bottom: 0pt; page-break-after: auto;"><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">注册后请务必牢记密码，一旦遗忘，找回密码过程十分繁琐，</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">会给将来的</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">学历认定、各类成绩认证、就业考研等带来不便。</span></p>
+ <p style="text-align: left; line-height: 31.5pt; text-indent: 27.75pt; margin-top: 0pt; margin-right: 0%; margin-bottom: 0pt; page-break-after: auto;"><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">3</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">.</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">登录成功后，点击上面导航栏中的“高等教育信息”，在下拉条中点击“学籍”，进行就读学校核验，请填写“山东大学”。核验通过后，就会显示出学生本人的学籍信息，请在此页面检查所有个人信息即可。</span></p>
+ <p style="text-align: left; line-height: 31.5pt; text-indent: 27.75pt; margin-top: 0pt; margin-right: 0%; margin-bottom: 0pt; page-break-after: auto;"><strong style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">三、自查内容</strong></p>
+ <p style="text-align: left; line-height: 31.5pt; text-indent: 27.75pt; margin-top: 0pt; margin-right: 0%; margin-bottom: 0pt; page-break-after: auto;"><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">除“分院”、“系（所、函授站）”、“班级”外的其他项目均要检查，学籍状态显示为“在籍（注册学籍）”即为正常。</span></p>
+ <p style="text-align: left; line-height: 31.5pt; margin-top: 0pt; margin-right: 0%; margin-bottom: 0pt; page-break-after: auto;"><strong style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">&nbsp; &nbsp; 四、注意事项</strong></p>
+ <p style="text-align: left; line-height: 31.5pt; text-indent: 27.75pt; margin-top: 0pt; margin-right: 0%; margin-bottom: 0pt; page-break-after: auto;"><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">1</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">.</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">中国大陆学生使用十八位数字的二代居民身份证，香港、澳门学生使用港澳身份证，台湾学生使用台湾居民往来大陆通行证；如果注册或登录过程中提示手机号码或者身份证号码重复，可先尝试“找回用户名”“找回密码”。如果无法找回，可重新注册并在注册后登陆学信网</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">App</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">，点击“我的”通过人像比对进行实人核验。</span></p>
+ <p style="text-align: left; line-height: 31.5pt; text-indent: 27.75pt; margin-top: 0pt; margin-right: 0%; margin-bottom: 0pt; page-break-after: auto;"><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">无法进行实人认证的请联系学信网客服：客服热线010-67410388；客服邮箱：kefu@chsi.com.cn</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">。</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">学信网电话客服比较繁忙，如多次仍未接通，可尝试邮件咨询，学信网工作人员于2-3个工作日进行答复。</span></p>
+ <p style="text-align: left; line-height: 31.5pt; text-indent: 27.75pt; margin-top: 0pt; margin-right: 0%; margin-bottom: 0pt; page-break-after: auto;"><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">2</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">.</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">登录成功后，如果无法查询到自己的学籍，请点击页面上侧的“尝试绑定学籍”进行手工关联。</span></p>
+ <p style="text-align: left; line-height: 31.5pt; text-indent: 27.75pt; margin-top: 0pt; margin-right: 0%; margin-bottom: 0pt; page-break-after: auto;"><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">3</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">.</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">关于部分同学专业名称与现在专业不一致的说明：现阶段学信网的专业名称记载的是学生高考录取时的专业名称，部分同学因入校后参加实验班选拔或进行大类分流后专业发生了变动，导致与学信网专业不一致。根据上级主管部门相关规定，学校将于大二学年统一进行调整。如果学信网记载专业</span><strong style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">与高考录取专业不一致</strong><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">，请联系所在学院教务老师，由教务老师统一向本科生院反馈。（如有专业名称表达不规范的情况，比如专业名称后面带有解释说明的括号，不算做错误信息）</span></p>
+ <p style="text-align: left; line-height: 31.5pt; text-indent: 27.75pt; margin-top: 0pt; margin-right: 0%; margin-bottom: 0pt; page-break-after: auto;"><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">4</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">.</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">学籍注册信息是</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">学</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal; font-weight: normal;">生</span><strong style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal; font-weight: normal;">毕业时学历证书电子注册信息的唯一依据</strong><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal; font-weight: normal;">，请各学院加强组织领导，务必通知到每一位202</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal; font-weight: normal;">3</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal; font-weight: normal;">级新生，督促</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">学生在</span><strong style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal; font-weight: normal;">202</strong><strong style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal; font-weight: normal;">3</strong><strong style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal; font-weight: normal;">年1</strong><strong style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal; font-weight: normal;">1</strong><strong style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal; font-weight: normal;">月3</strong><strong style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal; font-weight: normal;">0</strong><strong style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal; font-weight: normal;">日前</strong><strong style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal; font-weight: normal;">完成</strong><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">学籍信息自查工作，学校将不定期对各学院学生自查情况进行通报。</span></p>
+ <p style="text-align: left; line-height: 18.75pt; text-indent: 27.75pt; margin-top: 0pt; margin-right: 0%; margin-bottom: 0pt; page-break-after: auto;"><span style="font-family: Calibri;"><br></span></p>
+ <p style="text-align: left; line-height: 18.75pt; text-indent: 27.75pt; margin-top: 0pt; margin-right: 0%; margin-bottom: 0pt; page-break-after: auto;"><span style="font-family: Calibri;"><br></span></p>
+ <p style="text-align: justify; line-height: 31.5pt; text-indent: 294pt; margin-top: 0pt; margin-right: 0%; margin-bottom: 0pt; page-break-after: auto; -ms-text-justify: inter-ideograph;"><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本科生院</span></p>
+ <p style="text-align: justify; line-height: 31.5pt; text-indent: 266pt; margin-top: 0pt; margin-right: 0%; margin-bottom: 0pt; page-break-after: auto; -ms-text-justify: inter-ideograph;"><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 202</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">3</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">年11月</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">1</span><span style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: 0pt; font-family: 仿宋; font-size: 14pt; font-style: normal; font-variant: normal;">日</span></p>
+ <p class="style1" style="padding: 0pt 0pt 1pt; border-bottom-color: rgb(0, 0, 0); border-bottom-width: 1pt; border-bottom-style: solid;"><span style="font-family: 宋体;">窗体顶端</span></p>
+ <p style="margin: 15pt 0% 0pt 45pt; page-break-after: auto;"><span style="font-family: Calibri;"><br></span></p>
+ <p class="style2" style="padding: 1pt 0pt 0pt; border-top-color: rgb(0, 0, 0); border-top-width: 1pt; border-top-style: solid;"><span style="font-family: 宋体;">窗体底端</span></p>
+ <p class="MsoNormal"><span style="font-family: Calibri;"><br></span></p>
+</div>
+</div>
+    </div>
+    </div><div id="div_vote_id"></div>
+        <p align=right style="display:none;">
+        <br>
+        下一条：<a href="content.jsp?urltype=news.NewsContentUrl&wbtreeid=1014&wbnewsid=36774" >关于报送2023年秋季学期本科生转专业工作方案的通知</a>
+    </p>
+    <p align=right style="color: #900F13;margin: 20px 0px;">【<a href="javascript:window.opener=null;window.open('','_self');window.close();" style="color: #900F13;">关闭</a>】</p>
+</div>
+</form>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="clear h20"></div>
+<div id="footer">
+
+<div class="footer-content">
+
+            <div class="footer-left"></div>         
+
+
+<div class="footer-right">
+<div class="wz">
+  版权声明：山东大学本科生院
+</div>
+
+<div class="wz">
+  地址：山东省济南市山大南路27号&nbsp;&nbsp;
+  邮编：250100&nbsp;&nbsp;电话：0531-88364771&nbsp;&nbsp;
+</div>
+<div class="wz">
+<script language="javascript" src="/system/resource/js/openlink.js"></script>   
+ <a href="http://www.bkjx1.sdu.edu.cn/default.site" target="_blank" style="color:#ec7b81;font-size:12px;">旧版回顾</a>
+
+
+
+   
+
+ <a href="http://202.194.15.158:8081/system/login.jsp" target="_blank" style="color:#ec7b81;font-size:12px;">后台管理(办公账号登录)</a>
+
+
+   
+
+
+ <a href="http://202.194.15.158:8081/system/caslogin.jsp" target="_blank" style="color:#ffffff;font-size:12px;">后台管理（个人账号登录）</a>
+
+
+</div>
+</div>
+</div>
+</div>
+
+<div>
+</div>
+</body>
+</html>
